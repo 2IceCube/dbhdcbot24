@@ -1,6 +1,6 @@
 {
   "TOKEN": "dein token",
-  "CHANNEL": "VOICE CHANNEL ID",
+  "CHANNEL": "deine channel id wo der bot 24/7 musik abspielen soll",
   "STATUS": "We ❤️ DisBoHost",
-  "LIVE": "YouTube 24/7 Stream Link"
+  "LIVE": "https://www.youtube.com/watch?v=GDQnA1LVCWA"
 }
